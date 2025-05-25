@@ -3,7 +3,6 @@
 Welcome to the **AI App Directory**, your ultimate guide to discovering the latest and greatest AI-powered applications! This repository aims to be a comprehensive resource for finding AI tools relevant to various needs, tasks, and industries. Our primary directory is hosted at [videosdk.live/ai-apps](https://videosdk.live/ai-apps), and this GitHub repository serves as an open, community-driven mirror to enhance discoverability.
 
 [![VideoSDK AI Apps](https://img.shields.io/badge/View%20Full%20Directory-videosdk.live-blue)](https://videosdk.live/ai-apps)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This directory is curated to help you find:
