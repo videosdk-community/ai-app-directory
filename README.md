@@ -27,7 +27,6 @@ This directory is curated to help you find:
 *   [💬 GPT-Powered Apps (Coming Soon)](#gpt-powered-apps-coming-soon)
 *   [🔄 AI Tool Alternatives & Comparisons (Coming Soon)](#ai-tool-alternatives--comparisons-coming-soon)
 *   [📝 AI Tool Reviews & Testimonials](#ai-tool-reviews--testimonials)
-*   [🤝 How to Contribute](#how-to-contribute)
 *   [📄 License](#license)
 
 ## 🔍 AI Tool Discovery
@@ -139,17 +138,8 @@ User experiences and reviews are invaluable.
 *   While we don't host reviews directly in this GitHub repo, you can often find ratings and user feedback on the individual app pages at [videosdk.live/ai-apps](https://videosdk.live/ai-apps/{urlId}).*
 *   We encourage you to share your experiences by contributing to discussions or suggesting tools!
 
-## 🤝 How to Contribute
 
-We welcome contributions! If you know of an AI app that should be listed, or if you have suggestions to improve this directory, please:
-
-1.  **Suggest an App:** Open an issue with the "New App Suggestion" label.
-2.  **Correct Information:** Open an issue or a pull request for any corrections.
-3.  **Improve Structure:** Have ideas for better categorization or new sections? Let us know!
-
-Please read our [CONTRIBUTING.md](CONTRIBUTING.md) guide for more details on how to contribute.
-
-Our primary goal is to keep this directory comprehensive and up-to-date. Your help is greatly appreciated! You can also submit apps directly on our main platform: [Submit an AI Tool on VideoSDK](https://videosdk.live/ai-apps/submit).
+Our primary goal is to keep this directory comprehensive and up-to-date. Your help is greatly appreciated! You can submin **new app request** at community@videosdk.live .
 
 ## 📄 License
 
