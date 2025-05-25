@@ -14,8 +14,8 @@ This directory is curated to help you find:
 
 ## Table of Contents
 
-*   [🔍 AI Tool Discovery](#ai-tool-discovery)
-*   [🌟 Highlighted AI Tools](#highlighted-ai-tools)
+*   [AI Tool Discovery](#ai-tool-discovery)
+*   [Highlighted AI Tools](#highlighted-ai-tools)
     *   [✨ New AI Tools](#new-ai-tools)
     *   [🏆 Best AI Tools (Our Picks)](#best-ai-tools-our-picks)
     *   [🆓 Free AI Tools & Freemium Options](#free-ai-tools--freemium-options)
@@ -25,8 +25,7 @@ This directory is curated to help you find:
 *   [📈 AI Tools for Marketing (Coming Soon)](#ai-tools-for-marketing-coming-soon)
 *   [💬 GPT-Powered Apps (Coming Soon)](#gpt-powered-apps-coming-soon)
 *   [🔄 AI Tool Alternatives & Comparisons (Coming Soon)](#ai-tool-alternatives--comparisons-coming-soon)
-*   [📝 AI Tool Reviews & Testimonials](#ai-tool-reviews--testimonials)
-*   [📄 License](#license)
+*   [License](#license)
 
 ## AI Tool Discovery
 
@@ -131,16 +130,10 @@ We plan to add:
 *   Side-by-side feature comparisons for popular tools.
 *   Alternative suggestions based on pricing, features, or use-case.
 
-## 📝 AI Tool Reviews & Testimonials
-
-User experiences and reviews are invaluable.
-*   While we don't host reviews directly in this GitHub repo, you can often find ratings and user feedback on the individual app pages at [videosdk.live/ai-apps](https://videosdk.live/ai-apps/{urlId}).*
-*   We encourage you to share your experiences by contributing to discussions or suggesting tools!
-
-
+## Request your APP
 Our primary goal is to keep this directory comprehensive and up-to-date. Your help is greatly appreciated! You can submin **new app request** at community@videosdk.live .
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
