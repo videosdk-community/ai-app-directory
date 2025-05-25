@@ -29,11 +29,11 @@ This directory is curated to help you find:
 *   [📝 AI Tool Reviews & Testimonials](#ai-tool-reviews--testimonials)
 *   [📄 License](#license)
 
-## 🔍 AI Tool Discovery
+## AI Tool Discovery
 
 Finding the right AI tool can be challenging. This directory is designed to simplify your **AI tool discovery** process. We categorize tools, provide clear taglines, and link directly to more information on our main site [videosdk.live/ai-apps](https://videosdk.live/ai-apps), where you can find more in-depth details.
 
-## 🌟 Highlighted AI Tools
+## Highlighted AI Tools
 
 ### ✨ New AI Tools
 
@@ -46,7 +46,7 @@ Stay ahead of the curve! Here are some of the recent additions to our directory 
 
 For the complete and most up-to-date list of new tools, please visit the [New AI Tools section on VideoSDK](https://videosdk.live/ai-apps?sort=new).
 
-### 🏆 Best AI Tools (Our Picks)
+### Best AI Tools (Our Picks)
 
 While "best" is subjective and depends on your specific needs, here are a few tools that consistently receive high praise or offer unique, powerful features. *Note: Ratings are indicative and sourced from various platforms.*
 
@@ -56,7 +56,7 @@ While "best" is subjective and depends on your specific needs, here are a few to
 
 Explore more top-rated tools on our [Best AI Tools page on VideoSDK](https://videosdk.live/ai-apps?sort=rating).
 
-### 🆓 Free AI Tools & Freemium Options
+### Free AI Tools & Freemium Options
 
 Leverage the power of AI without breaking the bank. Many tools offer free tiers or trials.
 
