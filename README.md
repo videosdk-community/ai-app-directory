@@ -42,8 +42,6 @@ Stay ahead of the curve! Here are some of the recent additions to our directory 
 *   **Dupdub:** All-in-one content creation platform. ([Details](https://videosdk.live/ai-apps/dupdub))
 *   *(...add a few more from your recent additions)*
 
-For the complete and most up-to-date list of new tools, please visit the [New AI Tools section on VideoSDK](https://videosdk.live/ai-apps?sort=new).
-
 ### Best AI Tools (Our Picks)
 
 While "best" is subjective and depends on your specific needs, here are a few tools that consistently receive high praise or offer unique, powerful features. *Note: Ratings are indicative and sourced from various platforms.*
@@ -60,8 +58,6 @@ Leverage the power of AI without breaking the bank. Many tools offer free tiers 
 
 *   **Voice.ai:** Offers Free Real Time Voice Changer and a large ecosystem of Free AI Voice tools. ([Details](https://videosdk.live/ai-apps/voice))
 *   *(Add more tools here as you identify them with significant free offerings)*
-
-Discover more [Free AI Tools on VideoSDK](https://videosdk.live/ai-apps?filter=free).
 
 ## 🎧 AI Tools for Audio & Voice
 
@@ -101,31 +97,29 @@ A significant portion of current AI innovation is happening in the audio space. 
 
 Discover AI tools for video editing, generation, analysis, and more.
 *Placeholder for future tools.*
-Explore relevant tools on [VideoSDK AI Apps](https://videosdk.live/ai-apps/category/video).
+Explore relevant tools on [VideoSDK AI Apps](https://videosdk.live/ai-apps?category=video).
 
 ## ✍️ AI Tools for Writing (Coming Soon)
 
 Enhance your writing with AI assistants for content generation, grammar checking, summarization, and more.
 *Placeholder for future tools.*
-Explore relevant tools on [VideoSDK AI Apps](https://videosdk.live/ai-apps/category/writing).
+Explore relevant tools on [VideoSDK AI Apps](https://videosdk.live/ai-apps?category=writing).
 
 ## 📈 AI Tools for Marketing (Coming Soon)
 
 Optimize your marketing efforts with AI tools for SEO, content creation, ad management, and customer analytics.
 *Placeholder for future tools.*
-Explore relevant tools on [VideoSDK AI Apps](https://videosdk.live/ai-apps/category/marketing).
+Explore relevant tools on [VideoSDK AI Apps](https://videosdk.live/ai-apps?category=marketing).
 
 ## 💬 GPT-Powered Apps (Coming Soon)
 
 A dedicated section for applications built on or heavily utilizing GPT models from OpenAI and similar advanced language models.
-*Placeholder for future tools. As you identify GPT-based apps, list them here.*
 Example:
 *   **[App Name]:** [Brief description of how it uses GPT]. ([Details on VideoSDK]())
 
 ## 🔄 AI Tool Alternatives & Comparisons (Coming Soon)
 
 Looking for an alternative to a popular AI tool? This section will provide comparisons and suggestions.
-*For now, explore tools by category on [VideoSDK AI Apps](https://videosdk.live/ai-apps) to find potential alternatives.*
 We plan to add:
 *   Side-by-side feature comparisons for popular tools.
 *   Alternative suggestions based on pricing, features, or use-case.
